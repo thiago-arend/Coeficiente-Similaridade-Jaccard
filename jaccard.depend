@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1679429359 source:c:\users\thiag_000\desktop\jaccard\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvores.h"
+
+1679429948 c:\users\thiag_000\desktop\jaccard\arvores.h
+
+1679429950 source:c:\users\thiag_000\desktop\jaccard\arvores.c
+	"arvores.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1680328215 source:c:\users\thiag_000\desktop\trab estruturas\jaccard\arvores.c
+	"arvores.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1680324195 c:\users\thiag_000\desktop\trab estruturas\jaccard\arvores.h
+
+1680320410 source:c:\users\thiag_000\desktop\trab estruturas\jaccard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"arvores.h"
+
+1680650864 source:c:\users\thiag_000\desktop\trab estruturas - copia\jaccard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"arvores.h"
+
+1680650893 c:\users\thiag_000\desktop\trab estruturas - copia\jaccard\arvores.h
+
